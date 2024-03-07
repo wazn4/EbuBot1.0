@@ -1,0 +1,28 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.2.0",
+    "axios": "^1.6.7",
+    "canvas": "^2.11.2",
+    "common-tags": "^1.8.2",
+    "cpu-stat": "^2.0.1",
+    "croxydb": "^0.0.22",
+    "currency-converter-lt": "^2.0.1",
+    "discord.js": "^13.15.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.2",
+    "lodash.uniqwith": "^4.5.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^8.0.3",
+    "os": "^0.1.2",
+    "quick.db": "^9.1.7",
+    "quickdb": "^1.0.5",
+    "weather-js": "^2.0.0"
+  },
+  "engines": {
+    "node": ">=16.6.0"
+  }
+}
